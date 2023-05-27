@@ -7,4 +7,5 @@ Implementation for https://bit.ly/llm-augmenter
 2. https://github.com/deepset-ai/haystack
 3. https://huggingface.co/spaces/deepset/retrieval-augmentation-svb; Colab [here]()
 4. https://github.com/deepset-ai/haystack
+5. https://github.com/castorini/anserini
 
