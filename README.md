@@ -1,5 +1,5 @@
 # LLM-Augmentor
-Unofficial Implementation for https://bit.ly/llm-augmenter. I am not part of the official team.
+Unofficial Implementation for https://bit.ly/llm-augmenter. I am not part of the official team. 
 
 ## Literature Review
 
